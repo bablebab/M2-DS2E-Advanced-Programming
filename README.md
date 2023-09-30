@@ -47,6 +47,8 @@ Je souhaitais lier l'utile à l'agréable afin de pouvoir à la fois remplir mon
 - Produire des visualisations de haute qualité adaptées à un public commercial.
 - Offrir des options d'exportation et de partage des résultats.
 
+J'aimerais pouvoir avancer sur mon projet, dans le futur, afin de l'intégrer dans le serveur Gestion Commerciale présent au sein de l'entreprise, en collaboration avec notre informaticien réseau.
+
 ## Structure du projet
 
 - **README**: Vous y trouverez la description du projet.
@@ -58,6 +60,8 @@ Je souhaitais lier l'utile à l'agréable afin de pouvoir à la fois remplir mon
 Installez tout le dossier en .ZIP.
 Décompressez-le et lancez seulement launcher.bat, si une erreur est présente lancez le programme en .cmd.
 Pour afficher Dash sur votre ordinateur, allez sur cette adresse : http://localhost:8050/ si le code ne le fait pas lui même.
+
+Attendez un peu que tout se lance, et ensuite actualiser le lien.
 
 Si une erreur est rencontrée, lancez individuellement le fichier R et Python dans des environnements adéquats style RStudio ou Jupyter.
 Une fenêtre Shiny s'ouvrira et de même avec Dash.
