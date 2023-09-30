@@ -19,33 +19,33 @@ Je souhaitais lier l'utile à l'agréable afin de pouvoir à la fois remplir mon
 
 ## Gestion de Dash et prise en main:
 
-Comprendre la structure de base d'une application Dash (layout et callbacks).
-Se familiariser avec le langage spécifique de Dash et ses composants.
-Apprendre comment Dash gère les états et les interactions utilisateur.
+- Comprendre la structure de base d'une application Dash (layout et callbacks).
+- Se familiariser avec le langage spécifique de Dash et ses composants.
+- Apprendre comment Dash gère les états et les interactions utilisateur.
 
 ## Difficulté d’affichage:
 
-Assurer la responsivité de l'application sur différents dispositifs et tailles d'écran.
-Résoudre les conflits potentiels de styles CSS.
-Assurer une intégration fluide des graphiques et autres composants visuels.
+- Assurer la responsivité de l'application sur différents dispositifs et tailles d'écran.
+- Résoudre les conflits potentiels de styles CSS.
+- Assurer une intégration fluide des graphiques et autres composants visuels.
 
 ## Callback (duplicates, etc):
 
-Éviter les déclenchements multiples ou non souhaités de callbacks.
-Gérer les dépendances entre callbacks.
-Assurer que les données sont correctement mises à jour et reflétées dans l'interface utilisateur.
+- Éviter les déclenchements multiples ou non souhaités de callbacks.
+- Gérer les dépendances entre callbacks.
+- Assurer que les données sont correctement mises à jour et reflétées dans l'interface utilisateur.
 
 ## Analyse STL sur Python à inclure dans le Dashboard:
 
-Implémenter correctement l'analyse STL en Python.
-Gérer de grands ensembles de données ou des séries temporelles complexes.
-Présenter les résultats de manière intuitive et interactive dans le tableau de bord.
+- Implémenter correctement l'analyse STL en Python.
+- Gérer de grands ensembles de données ou des séries temporelles complexes.
+- Présenter les résultats de manière intuitive et interactive dans le tableau de bord.
 
 ## Outil commercial (données générées + rendu):
 
-Assurer la confidentialité et la sécurité des données des utilisateurs.
-Produire des visualisations de haute qualité adaptées à un public commercial.
-Offrir des options d'exportation et de partage des résultats.
+- Assurer la confidentialité et la sécurité des données des utilisateurs.
+- Produire des visualisations de haute qualité adaptées à un public commercial.
+- Offrir des options d'exportation et de partage des résultats.
 
 ## Structure du projet
 
