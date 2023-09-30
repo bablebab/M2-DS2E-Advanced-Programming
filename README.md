@@ -55,9 +55,12 @@ Je souhaitais lier l'utile à l'agréable afin de pouvoir à la fois remplir mon
 - **dashboard.py**: Vous y trouverez le code de l'interface du programme.
 - **shiny.r**: Vous y trouverez une fonction de l'interface.
 
+Installez tout le dossier en .ZIP.
+Décompressez-le et lancez seulement launcher.bat, si une erreur est présente lancez le programme en .cmd.
+Pour afficher Dash sur votre ordinateur, allez sur cette adresse : http://localhost:8050/ si le code ne le fait pas lui même.
+
 Si une erreur est rencontrée, lancez individuellement le fichier R et Python dans des environnements adéquats style RStudio ou Jupyter.
 Une fenêtre Shiny s'ouvrira et de même avec Dash.
-Pour afficher Dash sur votre ordinateur, allez sur cette adresse : http://localhost:8050/
 
 ## Pré-requis
 
