@@ -7,5 +7,8 @@ pip install -r requirements.txt
 :: Lancer dashboard.py
 start python dashboard.py
 
+:: Ouvrir http://localhost:8050/ dans le navigateur par défaut
+start http://localhost:8050/
+
 echo Les applications sont lancées!
 pause
