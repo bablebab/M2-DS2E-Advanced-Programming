@@ -50,15 +50,21 @@ Je souhaitais lier l'utile à l'agréable afin de pouvoir à la fois remplir mon
 ## Structure du projet
 
 - **README**: Vous y trouverez la description du projet.
-- **main.py**: Vous y trouverez le code à lancer pour tous les autres.
+- **launcher.bat**: Vous y trouverez le code à lancer pour tous les autres.
+- **requirements.txt**: Les librairies Python nécessaire au bon lancement.
 - **dashboard.py**: Vous y trouverez le code de l'interface du programme.
 - **shiny.r**: Vous y trouverez une fonction de l'interface.
+
+Si une erreur est rencontrée, lancez individuellement le fichier R et Python dans des environnements adéquats style RStudio ou Jupyter.
+Une fenêtre Shiny s'ouvrira et de même avec Dash.
+Pour afficher Dash sur votre ordinateur, allez sur cette adresse : http://localhost:8050/
 
 ## Pré-requis
 
 - Un ordinateur.
 - Python.
 - R.
+- Un environnement adéquat du style RStudio ou Jupyter / Spyder.
 - Les libraries associées.
 
 ## Auteurs
